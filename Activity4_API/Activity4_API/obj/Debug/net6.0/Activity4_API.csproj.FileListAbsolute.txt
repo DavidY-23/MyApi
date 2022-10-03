@@ -1,0 +1,15 @@
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/Activity4_API.csproj.AssemblyReference.cache
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/Activity4_API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/Activity4_API.AssemblyInfoInputs.cache
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/Activity4_API.AssemblyInfo.cs
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/Activity4_API.csproj.CoreCompileInputs.cache
+/Users/davidy/Projects/Activity4_API/Activity4_API/bin/Debug/net6.0/Activity4_API
+/Users/davidy/Projects/Activity4_API/Activity4_API/bin/Debug/net6.0/Activity4_API.deps.json
+/Users/davidy/Projects/Activity4_API/Activity4_API/bin/Debug/net6.0/Activity4_API.runtimeconfig.json
+/Users/davidy/Projects/Activity4_API/Activity4_API/bin/Debug/net6.0/Activity4_API.dll
+/Users/davidy/Projects/Activity4_API/Activity4_API/bin/Debug/net6.0/Activity4_API.pdb
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/Activity4_API.dll
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/refint/Activity4_API.dll
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/Activity4_API.pdb
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/Activity4_API.genruntimeconfig.cache
+/Users/davidy/Projects/Activity4_API/Activity4_API/obj/Debug/net6.0/ref/Activity4_API.dll
