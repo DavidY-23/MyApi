@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4TjrgD/P/2wn4FtwWhXjO63N7vKTZllJnVwchec6mU8QhSu5M9RmpCvkkqY5S9KkM0zLGdYgicClsVdtcKKZ3w==",
+  "success": true,
+  "projectFilePath": "/Users/davidy/Projects/Activity5/Activity5/Activity5.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidy/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
